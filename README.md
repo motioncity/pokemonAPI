@@ -27,6 +27,7 @@ which returns all pokemon in database
 `type Mutation {
   createPokemon(input: PokemonInput) : Pokemon
 }`
+
 Which allows you to create a pokemon in the database using a PokemonInput as the input
 
 A pokemon input is defined as followed
