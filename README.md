@@ -1,2 +1,2 @@
 # pokemonAPI
-REST API made using MongoDB, Mongoose, Express an GraphQl to get myself familiar with back-end development
+REST API centered around pokemon to help get me familiar with GraphQL
