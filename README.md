@@ -44,7 +44,7 @@ Planning to add more operations
 
 + [MongoDB](https://github.com/mongodb/mongo) - Used for database functionality
 + [Express](https://github.com/expressjs/express) - Used for creating API, more specfically handling request endpoints
-+ [Mongose](https://github.com/Automattic/mongoose) - Used for object modeling on our MongoDB data
++ [Mongoose](https://github.com/Automattic/mongoose) - Used for object modeling on our MongoDB data
 + [GraphQL](https://github.com/graphql/graphql-js) - Query language for our API that allows us to fetch exactly what we need, more specfically no under/over fecthing of data. Also has a really cool Type system that lets us structure how we want our datat to be formatted
 
 
